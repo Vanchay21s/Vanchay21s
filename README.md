@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and making 
 - 🌱 Currently learning: JavaScript | React+Tailwind | Node/Express+MongoDB and PostgreSQL
 - 💼 Working on: Build Web Online-Shop can add Favorite and Cart.
 - 🔭 Exploring: Web Development and Cross-platform development.
-- 📫 How to reach me: chaydouble0gmail.com
+- 📫 How to reach me: chaydouble0@gmail.com
 
 ## 🚀 My Tech Stack
 Here are some of the technologies I work with:
