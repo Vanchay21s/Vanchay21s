@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and making 
 - 🌱 Currently learning: JavaScript | React+Tailwind | Node/Express+MongoDB and PostgreSQL
 - 💼 Working on: Build Web Online-Shop can add Favorite and Cart.
 - 🔭 Exploring: Web Development and Cross-platform development.
-<-- - 🌐 Portfolio: [viwath.vercel.app](https://viwath.vercel.app/) -->
 - 📫 How to reach me: chaydouble0gmail.com
 
 ## 🚀 My Tech Stack
