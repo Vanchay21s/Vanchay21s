@@ -6,18 +6,18 @@ https://gprm.itsvg.in/
 Welcome to my GitHub profile! I'm passionate about coding, learning, and making great contributions to the tech community.
 
 ## 🎯 About Me
-- 🌱 Currently learning: Kotlin, Spring Boot and Android.
-- 💼 Working on: Building a Library app.
-- 🔭 Exploring: Android and Cross-platform development.
-- 🌐 Portfolio: [viwath.vercel.app](https://viwath.vercel.app/)
-- 📫 How to reach me: phelviwath@gmail.com
+- 🌱 Currently learning: JavaScript | React+Tailwind | Node/Express+MongoDB and PostgreSQL
+- 💼 Working on: Build Web Online-Shop can add Favorite and Cart.
+- 🔭 Exploring: Web Development and Cross-platform development.
+<-- - 🌐 Portfolio: [viwath.vercel.app](https://viwath.vercel.app/) -->
+- 📫 How to reach me: chaydouble0gmail.com
 
 ## 🚀 My Tech Stack
 Here are some of the technologies I work with:
-- **Languages:** Kotlin, Java
-- **Frameworks & Libraries:** Spring Boot, Android, Jetpack Compose
+- **Languages:** Javascript
+- **Frameworks & Libraries:** React, Vue, Node/Express
 - **Tools & Platforms:** Git, Docker
-- **Databases:** MySQL, MongoDB
+- **Databases:** PostgreSQL, MongoDB
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vanchay21s&show_icons=true&theme=tokyonight&hide_border=true)
