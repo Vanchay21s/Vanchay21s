@@ -1,8 +1,5 @@
 https://gprm.itsvg.in/
-## Hi there, I'm Vanchay 👋
-
-# 👋 Hi, I'm Van chay!
-
+## 👋 Hi there, I'm Vanchay 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and making great contributions to the tech community.
 
 ## 🎯 About Me
