@@ -1,7 +1,5 @@
 https://gprm.itsvg.in/
-## Hi there 👋
-
-**Vanchay21s/Vanchay21s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Vanchay 👋
 
 Here are some ideas to get you started:
 
