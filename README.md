@@ -13,7 +13,7 @@ Here are some of the technologies I work with:
 - **Frameworks & Libraries:** React, Vue, Node/Express
 - **Tools & Platforms:** Git, Docker
 - **Databases:** PostgreSQL, MongoDB
-<div display="flex" >
+<div display-flex >
   ## 📈 GitHub Stats
   ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
   
