@@ -19,10 +19,10 @@ Here are some of the technologies I work with:
 - **Tools & Platforms:** Git, Docker
 - **Databases:** MySQL, MongoDB
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vanchay21s&show_icons=true&theme=tokyonight&hide_border=true)
 
-🛠️ Languages I Use
+## 🛠️ Languages I Use
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vanchay21s&show_icons=true&theme=tokyonight&hide_border=true)
 
 
