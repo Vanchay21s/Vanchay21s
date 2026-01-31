@@ -1,4 +1,3 @@
-https://gprm.itsvg.in/
 ## 👋 Hi there, I'm Vanchay 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and making great contributions to the tech community.
 
@@ -14,12 +13,14 @@ Here are some of the technologies I work with:
 - **Frameworks & Libraries:** React, Vue, Node/Express
 - **Tools & Platforms:** Git, Docker
 - **Databases:** PostgreSQL, MongoDB
+<div display="flex" >
+  ## 📈 GitHub Stats
+  ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  ## 🛠️ Languages I Use
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
+</div>
 
-## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 🛠️ Languages I Use
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vanchay01&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 ## 💡 Fun Facts
