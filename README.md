@@ -1,8 +1,9 @@
 ## 👋 Hi there, I'm Vanchay 
-Welcome to my GitHub profile! I'm passionate about coding, learning, and making great contributions to the tech community.
+Welcome to my GitHub profile! 
+I'm passionate about coding, learning, and making great contributions to the tech community.
 
 ## 🎯 About Me
-- 🌱 Currently learning: JavaScript | React+Tailwind | Node/Express+MongoDB and PostgreSQL
+- 🌱 Currently learning: JavaScript 
 - 💼 Working on: Build Web Online-Shop can add Favorite and Cart.
 - 🔭 Exploring: Web Development and Cross-platform development.
 - 📫 How to reach me: chaydouble0@gmail.com
@@ -10,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and making 
 ## 🚀 My Tech Stack
 Here are some of the technologies I work with:
 - **Languages:** Javascript
-- **Frameworks & Libraries:** React, Vue, Node/Express
+- **Frameworks & Libraries:** React | Vue | Node/Express | Tailwind CSS
 - **Tools & Platforms:** Git, Docker
 - **Databases:** PostgreSQL, MongoDB
   
